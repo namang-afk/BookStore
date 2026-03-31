@@ -1,7 +1,7 @@
 # BookStore
 An online bookstore web app using Open Library API with features like cart, authentication, and order system.
 ## 📸 Screenshot
-![Homepage](<img width="1911" height="968" alt="image" src="https://github.com/user-attachments/assets/fda293a0-a842-43e6-8daa-fcfb3b890e20" />)
+![Homepage](https://github.com/namang-afk/BookStore/blob/main/Screenshot%202026-03-31%20215845.png?raw=true)
 
 ## Features
 * Browse books by category
